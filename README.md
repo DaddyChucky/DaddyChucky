@@ -35,7 +35,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="DaddyChucky's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=daddychucky&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="left" alt="DaddyChucky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daddychucky&theme=tokyonight&count_private=true" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/charles-de-lafontaine-2506191b2/
