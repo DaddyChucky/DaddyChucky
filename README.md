@@ -30,12 +30,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="DaddyChucky's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?count_private=true&username=DaddyChucky&show_icons=true&theme=tokyonight&hide_border=true" />
-
+  <img align="left" alt="DaddyChucky's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=daddychucky&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/charles-de-lafontaine-2506191b2/
