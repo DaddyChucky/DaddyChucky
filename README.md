@@ -2,7 +2,7 @@
 
 <h2 style="text-align: left">:female_detective: About</h2>
 <ul>
-<li><p>My name is <b>Charles DE LAFONTAINE</b>, and I have many projects under my belt. :computer:</p></li>
+<li><p>My name is <b>Charles DE LAFONTAINE, CPI</b>, and I have many projects under my belt. :computer:</p></li>
 <li><p>I study at <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> in software engineering. :school:</p></li>
 <li><p>For business inquiries, please message me directly on <a href="https://www.linkedin.com/in/charles-de-lafontaine/">LinkedIn</a>. :sparkler:</p></li>
 </ul>
