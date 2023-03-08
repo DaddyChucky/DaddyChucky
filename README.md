@@ -12,7 +12,7 @@
 <li><p><a href="https://github.com/AFDX-POLY/ns3module">AFDX Switch & End-System</a> :electric_plug:</p></li>
 </ul>
 
-<h2 style="text-align: left">:ledger: Current projects</h2>
+<h2 style="text-align: left">:seedling: GitLab</h2>
 <ul>
 <li><p>I also work on many other projects on GitLab! <a href="https://gitlab.com/DaddyChucky">Check me out!</a> :rocket:</p></li>
 </ul>
