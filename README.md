@@ -7,11 +7,14 @@
 <li><p>For business inquiries, please message me directly on <a href="https://www.linkedin.com/in/charles-de-lafontaine/">LinkedIn</a>. :sparkler:</p></li>
 </ul>
 
+<h2 style="text-align: left">:ledger: Current project(s)</h2>
+<ul>
+<li><p><a href="https://github.com/AFDX-POLY/ns3module">AFDX Switch & End-System</a> :electric_plug:</p></li>
+</ul>
+
 <h2 style="text-align: left">:ledger: Current projects</h2>
 <ul>
-<li><p><a href="https://github.com/DaddyChucky/UNIVERSAL_SCRAPER">Universal Scraper</a> :computer_mouse:</p></li>
-<li><p><a href="https://github.com/AFDX-POLY/ns3module">AFDX Switch & End-System</a> :electric_plug:</p></li>
-<li><p><a href="https://github.com/DaddyChucky/SUDOKU">Sudoku</a> :game_die:</p></li>
+<li><p>I also work on many other projects on GitLab! <a href="https://gitlab.com/DaddyChucky">Check me out!</a> :rocket:</p></li>
 </ul>
 
 <h2 style="text-align: left">:zap: Stats</h2>
